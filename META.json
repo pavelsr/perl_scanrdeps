@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/pavelsr/perl_scanrdeps/issues"
+      },
+      "homepage" : "https://github.com/pavelsr/perl_scanrdeps",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/pavelsr/perl_scanrdeps.git",
+         "web" : "https://github.com/pavelsr/perl_scanrdeps"
+      }
+   },
    "version" : "0.01",
    "x_static_install" : 1
 }
