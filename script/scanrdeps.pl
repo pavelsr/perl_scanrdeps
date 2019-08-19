@@ -27,7 +27,7 @@ Requires grep with -r -E and --include options
 Typical use case: you want to find all perl scripts that are using particular database/table. 
 You found module with database connection and then scan for reverse dependencies by this module
 
-scanrdeps.pl uses regex which correnctly process use and use parent
+scanrdeps.pl uses regex which correctly process use and use parent
 
 Another use case: you want to get list of files which are affected by particular module
 
